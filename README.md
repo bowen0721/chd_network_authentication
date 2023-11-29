@@ -1,0 +1,2 @@
+# chd_network_authentication
+长安大学校园网自动认证
